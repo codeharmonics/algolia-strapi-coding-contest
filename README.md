@@ -1,5 +1,6 @@
-## Principles
+## WIP
 
+Principles
 - We have a booth at the Strapi conference on April 22nd.
 - We want an animation for the booth.
 - We came out with the idea of a coding contest.
