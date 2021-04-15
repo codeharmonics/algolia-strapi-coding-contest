@@ -1,8 +1,10 @@
-Solve a problem! Company ABC needs a new search experience. They want you to revamp their existing search screen. 
+## Solve a problem! 
+Company ABC needs a new search experience. They want you to revamp their existing search screen. 
 
-Their only requirement is that it includes autocomplete. Everything else is up to you - they want it to be a great search experience.
+Their only requirement is that it includes Autocomplete. Everything else is up to you - they want it to be a great search experience.
 
 Here's their base app, which includes autocomplete:
+
 https://codesandbox.io/s/algolia-autocomplete-js-v1-sandbox-f316g
 
 Here are some examples of great search that includes autocomplete:
