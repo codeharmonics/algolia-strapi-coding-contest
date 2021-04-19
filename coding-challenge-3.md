@@ -1,26 +1,31 @@
 ## Solve a problem! 
 Company ABC needs a new search experience. They want you to revamp their existing search screen. 
 
-Their only requirement is that it includes Autocomplete. Everything else is up to you - they want it to be a great search experience.
+Their only requirement is that it includes [Autocomplete](https://autocomplete.algolia.com/). Everything else is up to you - they want it to be a great search experience.
 
-Here's their base app, which includes autocomplete:
+### The contest
+
+Here's the company's current app, which includes autocomplete:
 
 https://codesandbox.io/s/algolia-autocomplete-js-v1-sandbox-f316g
 
-Here are some examples of great search that includes autocomplete:
-- docs
-- docsearch
-- customers 1
-- customers 2
-- customers 3
+There are two parts to this app: The UI and the Data.
 
-These are just for inspiration. It's up to you to build the experience that you think is best for the company.
+#### For the UI
 
-There's a lot of coding to do but also design! We want you to make the functional and decision decisions! We therefore need your left and right brain - This is front-end coding at its best!
+We'd like you to implement an **instant results, autocomplete experience**, which means that users see results instantly as they type. 
 
-**The functional** - you need to decide on the features: add facets, paging, menu - Algolia's features are all yours to do what you want.
+Here are some inspiring examples:
+- [docs](https://www.algolia.com/doc/)
+- [docsearch](https://docsearch.algolia.com/)
+- [Sandboxes](https://autocomplete.algolia.com/sandboxes)
 
-**The design** - once you've got the features, it's up to you to place them on the screen and style them. Make up your company's logo and colors and then try to fit the search into their brqand.
+Take a look at this [article on how to implement Autocomplete](https://www.algolia.com/blog/ux/taking-documentation-search-to-new-heights-with-algolia-and-autocomplete/).
 
-**The code**. It's time to implement.
+#### For the data 
 
+Our sandbox already contains data, which you can use and focus only on making a great UI. 
+
+Or you can use different data: You can plug in your own service and add one or more different sources (GitHub API, YouTube API, Algolia, Locations, etc.). 
+
+### Happy coding!
