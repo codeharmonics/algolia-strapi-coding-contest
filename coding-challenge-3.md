@@ -30,6 +30,8 @@ Here are some inspiring examples:
 
 Take a look at this [article on how to implement Autocomplete](https://www.algolia.com/blog/ux/taking-documentation-search-to-new-heights-with-algolia-and-autocomplete/).
 
+The most creative UI wins!
+
 #### 2 - Plug in multiple data sources 
 
 Focus on the data: plug in your own service and add different data sources to the autocomplete library (GitHub API, YouTube API, Algolia, Locations, etc.). 
@@ -38,7 +40,6 @@ For this, you will be judged on the creativity you show in managing multiple dat
 
 You can find out more about combining multiple sources in our guide on [federated search](https://www.algolia.com/doc/guides/solutions/ecommerce/autocomplete/tutorials/federated-search/).
 
+The most advanced use case for multiple data sources wins! Social network, companies with a diverse set of online offerings, streaming services, etc..
+
 ### Happy coding!
-
-You'll get extra points if you can combine 1 & 2 and create a great UI with multiple data sources.
-
